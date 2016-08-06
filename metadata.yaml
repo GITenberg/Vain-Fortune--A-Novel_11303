@@ -1,0 +1,43 @@
+_repo: Vain-Fortune--A-Novel_11303
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Greiffenhagen, Maurice
+    alias: Greiffenhagen, Maurice William
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '34729'
+    url: http://www.gutenberg.org/2009/agents/34729
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: Hubert Price, a struggling young playwright with one moderate success
+  under his belt, is bequeathed a legacy by his uncle. His focus on repeating his
+  theatrical success, and his love for the beautiful Julia, blinds him to the tragic,
+  obsessive love of his disinherited cousin, Emily.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dramatists -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Unrequited love -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- GITenberg
+title: 'Vain Fortune: A Novel'
+url: http://www.gutenberg.org/ebooks/11303
